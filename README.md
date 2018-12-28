@@ -1,4 +1,4 @@
 ## Jhonatan William Voltolini
 
 ## Observações:
-- Trabalho final de Disciplina de Cloud Computing.
+- Trabalho Final da Disciplina de Cloud Computing.
